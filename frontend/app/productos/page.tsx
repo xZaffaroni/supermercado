@@ -5,7 +5,7 @@ import api from '@/lib/api';
 import toast from 'react-hot-toast';
 import { 
   Plus, Search, Edit2, Trash2, PackageSearch, AlertTriangle, 
-  Image as ImageIcon, Loader2, Save, X 
+  Image as ImageIcon, Loader2, Save, X, ScanLine 
 } from 'lucide-react';
 
 export default function Productos() {
