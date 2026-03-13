@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+.next/
+out.log
+uploads/
+output.txt
+.DS_Store
